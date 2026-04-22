@@ -1,0 +1,20 @@
+finish animal classes
+finish animal interfaces
+add validation
+add ability to see how many of each type of animal is currently in the zoo
+add ability to check predominant colour of all the animals in the zoo
+Add date feature to maintence and animal checking
+include ability to view zookeeper data
+add function where if user does not enter all fields for a new animal, it will not error but instead will not be saved
+introduce at least one additional instance variable relevant to the specific type of animal for example, you could introduce a variable representing milkProduction for a cow.
+add ability to modify animal data
+add ability to remove animals
+
+Add creating animals functionality DONE
+add ability to save animals DONE
+add ability to save and retrieve zoo data 56 65 MAIN DONE
+add ability to perfrom animal maintenance DONE
+add ability to view animals DONE
+Create a zookeeper class DONE
+add ability to create new zookeeper instance DONE
+add functionality to heal() to save when the last maintence was and who did it DONE

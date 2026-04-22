@@ -1,0 +1,17 @@
+need to be able to handle data from three different types of animal
+need to implement at least one interface
+interfaces must have more than one abstract method
+animals should have their wieght, name, age, and colour recorded
+eahc type of animal should have at least one type of instance variable
+animals should be able to be addded and removed from the zoo
+animal detials should be able to be edited after they have been created
+the program should let the zookeeper perform care on each type of animal specific to them (wingheck for birds)
+there should be an ability to create a report on the zoo, this will print out the number of each type of animal, the zoo name, and the dominant color for each type of animal
+the user should be able to view each animal currently at the xoo
+at the end of the zoo session, the animal details should be recorded to 2 text files, one for zoo details and one for animal details
+if any animal details are blank, they should not be recorded to disk, communicate this to the user
+animals should be searchable by colour or name, if present the animals details should be displayed and their makeSOund() should be called
+the porgram must be cli
+any extra featurres are welcome
+create a test plan
+record evidence of testing

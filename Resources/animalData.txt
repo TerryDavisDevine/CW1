@@ -1,0 +1,4 @@
+Travis,black,12,54,chimp,good,1
+Trevor,grey,5,20,Spider monkey,bad,1
+mr tiger,orange,10,190,tiger,good,3
+mr jaguar,black,3,200,jaguar,good,3
