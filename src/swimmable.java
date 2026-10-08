@@ -1,3 +1,4 @@
 public interface swimmable {
-    public void canSwim();
+    public boolean getSwim();
+    public String swimming();
 }

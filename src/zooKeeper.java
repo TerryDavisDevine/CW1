@@ -1,10 +1,8 @@
 public class zooKeeper {
     String name;
     String password;
-    String LastTimeLoggedIn;
-    String LastMaintence;
-    zooKeeper(String name, String ID){
+    zooKeeper(String name, String pass){
         this.name = name;
-        this.password = ID;
+        this.password = pass;
     }
 }
